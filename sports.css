@@ -1,0 +1,48 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+nav button {
+    background-color: #fff;
+    color: #333;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Add more styles as needed for specific elements, such as teams, matches, etc. */
+
+
+You can include this CSS code in the <style> tag within the HTML document or save it in a separate CSS file and link it to your HTML file using the <link> tag in the <head> section. Remember to customize the styles based on your design preferences.
+
+If you have specific elements you'd like to style or additional requirements, feel free to ask for more guidance!
